@@ -1,0 +1,106 @@
+body{
+	background-color: #3B3B3B;
+	font-family: Montserrat;
+}
+
+#splash{
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    color:#FFB41C;
+    background-color:#3B3B3B;
+    height: 100vh;
+    z-index: 1;
+
+}
+.text-center{
+	font-size: 265%;
+	font-weight: 300;
+	padding-top:35vh;
+
+}
+.text{
+	color:#FFB41C;
+	font-size: 200%;
+	font-weight: 400;
+	text-align: center;
+}
+
+.text_two{
+	color:#FFB41C;
+	font-size: 150%;
+	font-weight: 200;
+	text-align: center;
+}
+#categorias{
+	width: 91.5%;
+	font-family: Montserrat;
+	font-weight: 400;
+	color: grey;
+	margin-bottom: 3%;
+	margin-left: 4%;
+	padding: 1%;
+}
+.thai_one , .cl_one , .hi_one , .it_one{
+	display: inline-block;
+	width: 99%;
+	padding-bottom: 1%;
+}
+.thai_two{
+	display: inline-block;
+	width: 52.4%;
+	padding-bottom: 1%;
+	
+}
+.thai_three{
+	display: inline-block;
+	width: 45.6%;
+	padding-bottom: 1%;
+	
+}
+.thai_four , .cl_four , .hi_four , .it_four{
+	display: inline-block;
+	width: 99%;
+
+}
+.cl_two{
+	display: inline-block;
+	width: 49.2%;
+	padding-bottom: 1%;
+}
+.cl_three{
+	display: inline-block;
+	width: 49.3%;
+	padding-bottom: 1%;
+}
+.hi_two{
+	display: inline-block;
+	width: 50.9%;
+	padding-bottom: 1%;
+}
+.hi_three{
+	display: inline-block;
+	width: 47.3%;
+	padding-bottom: 1%;
+}
+
+.it_two{
+	width: 52.4%;
+	padding-bottom: 1%;
+}
+.it_three{
+	width: 45.9%;
+	padding-bottom: 1%;
+}
+#container{
+	padding:3% 5%
+}
+.container_map{
+	margin:0 5%;
+}
+.row_photos{
+	margin:0;
+}
